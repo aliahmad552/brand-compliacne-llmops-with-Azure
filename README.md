@@ -22,7 +22,7 @@ This tool helps **brands, agencies, and compliance teams** to programmatically c
 
 ## 🧰 Architecture
 
-```mermaid
+```bash
 flowchart TD
     A[YouTube Short Video] -->|Download| B(Local Storage)
     B --> C[Azure Video Indexer]
